@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mansvini
+- 👋 Hi, I’m Mansvini
 - 👀 I’m interested in job opportunities as a Senior full stack developer
 - 🌱 I’m currently learning data structures & algorithms
 - 💞️ I’m looking to collaborate on open source projects
