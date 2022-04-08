@@ -12,4 +12,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <img align='center' src='https://github-readme-stats.vercel.app/api?username=mansvini&show_icons=true&theme=radical'/>  
-<img align='center' src='https://github-readme-stats.vercel.app/api/top-langs/?username=mansvini&layout=compact'/>
+<img align='center' src='https://github-readme-stats.vercel.app/api/top-langs/?username=mansvini&layout=compact&theme=radical'/>
