@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mansvini
-- 👀 I’m interested in job opportunities as a Full stack developer
+- 👀 I’m working as a Full stack developer
 - 🌱 I’m currently learning Advanced JavaScript
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 Reach me via <a href="https://www.linkedin.com/in/mansvini/" target=”_blank” rel="nofollow">Linkedin</a> or <a href="https://twitter.com/mansvinicodes" target=”_blank” rel="nofollow">Twitter</a>
