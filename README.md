@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 Reach me via <a href="https://www.linkedin.com/in/mansvini/" target=”_blank” rel="nofollow">Linkedin</a> or <a href="https://twitter.com/mansvinicodes" target=”_blank” rel="nofollow">Twitter</a>
 
-With a focus on JavaScript, Node and React, I build, deploy and maintain Fullstack applications for both companies and for fun!
+With a focus on JavaScript, Node and React; I build, deploy and maintain Fullstack applications for both companies and for fun!
 
 <!---
 Mansvini/Mansvini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
