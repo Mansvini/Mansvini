@@ -9,7 +9,6 @@ I am a senior full stack developer with a wide range of experience on solving re
 * 🌍  I'm based in New Delhi, India
 * 🖥️  See my portfolio at [mansvini.netlify.app](https://mansvini.netlify.app)
 * ✉️  You can contact me at [mansvini123@gmail.com](mailto:mansvini123@gmail.com)
-* 🚀  I'm currently working on [Policy Management App for the governments of Africa](https://ycenter.in/)
 * 🧠  I'm learning Data Structures & Algorithms
 * 🤝  I'm open to collaborating on projects
 
