@@ -47,6 +47,4 @@ I am a senior full stack developer with a wide range of experience on solving re
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Mansvini"><img src="https://github-readme-stats.vercel.app/api?username=Mansvini&show_icons=true&hide=stars,prs,issues,contribs&count_private=true&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=000000&hide_border=true&show_icons=true" alt="Mansvini's GitHub stats" /></a>
-
 <a href="http://www.github.com/Mansvini"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Mansvini&stroke=ffffff&background=000000&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
